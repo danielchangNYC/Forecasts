@@ -26,6 +26,9 @@ import retrofit.client.Response;
 
 public class WeatherActivity extends ListActivity {
 
+   //TODO: Implement Activity
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

@@ -15,4 +15,5 @@ import com.flatironschool.forecastdb.db.ForecastOpenHelper;
  * Created by altyus on 11/11/14.
  */
 public class ForecastAdapter extends CursorAdapter {
+    //TODO: Implement CursorAdapter
 }

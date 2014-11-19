@@ -5,6 +5,7 @@ You'll find attached a simple project that connects to the the Forecast.io API t
 
 ##Instructions
 
+* [Register for a ForecastIO APIKey](https://developer.forecast.io/) 
 * Setup your Java POJO Forecast. See below for code snippet.  
 * Configure your Database in `ForecastOpenHelper.java`.  
 	* Define Table Name

@@ -9,5 +9,5 @@ import android.database.sqlite.SQLiteOpenHelper;
  */
 
 public class ForecastOpenHelper extends SQLiteOpenHelper {
-
+//TODO: Implement SQLiteOpenHelper subclass
 }
